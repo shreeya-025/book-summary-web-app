@@ -117,9 +117,9 @@ During this project I gained experience in:
 
 ## 👨‍💻 Author
 
-**BUSHRA CHOHAN, SHREEYA SUNITA KALWAR, SABA ERAM**
+**BUSHRA CHOHAN, SHREEYA KALWAR, SABA ERAM**
 
-AI Engineering Student
+AIML Engineering Student
 
 Interested in AI • Machine Learning • Backend Development
 
