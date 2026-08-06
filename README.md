@@ -54,7 +54,6 @@ book-summary-web-app/
 |
 ├── Cover picture/
 ├── style/
-│  
 ├── script.js
 ├── style.css
 │
@@ -118,7 +117,7 @@ During this project I gained experience in:
 
 ## 👨‍💻 Author
 
-**BUSHRA CHOHAN, SHREEYA KALWAR, SABA ERAM**
+**BUSHRA CHOHAN, SHREEYA SUNITA KALWAR, SABA ERAM**
 
 AI Engineering Student
 
